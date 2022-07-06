@@ -139,3 +139,8 @@
 footer p {
     text-align: center;
 }
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
