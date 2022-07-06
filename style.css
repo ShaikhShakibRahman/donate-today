@@ -1,0 +1,141 @@
+.overlay {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    vertical-align: middle;
+}
+
+.bg {
+    background-image: url(images/donation5.jpg);
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    width: 10%;
+
+    background-color: lightcoral;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+#op {
+    margin-top: 80px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+#oc {
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 30%;
+    margin-top: 1cm;
+    color: rgb(97, 97, 95);
+    font-size: 20px;
+    text-align: center;
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 5px;
+    border: 1px solid black;
+    box-sizing: border-box;
+
+
+
+}
+
+.div3 {
+
+    border-color: red;
+    color: red;
+}
+
+.flex-container {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-left: 25%;
+}
+
+.input-con {
+    width: 50%;
+    margin-left: 45%;
+    margin-bottom: 1%;
+}
+
+.button {
+    margin-left: 47%;
+    margin-bottom: 7%;
+}
+
+#of {
+
+    color: black;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+#og {
+    width: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1cm;
+    color: rgb(97, 97, 95);
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 2%;
+
+}
+
+.flex-pot {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+#flex-1 {
+    background-color: rgb(111, 209, 176);
+    width: 60%;
+    margin-left: 2%;
+
+    padding-left: 20px;
+    border-radius: 10px;
+
+
+}
+
+#flex-2 {
+    background-color: pink;
+    width: 60%;
+    margin-left: 2%;
+
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+#flex-3 {
+    background-color: rgb(224, 202, 160);
+    width: 60%;
+    margin-left: 2%;
+
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+footer p {
+    text-align: center;
+}
